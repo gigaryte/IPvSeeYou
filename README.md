@@ -118,5 +118,5 @@ f8:00:11:22:33:44	f8:00:11:22:33:40	23.45,-12.34
 ## Credits
 
 Much of the code that interacts with Apple's Location Services was borrowed from
-@hubert3's excellent [`iSniff-GPS`](https://github.com/hubert3/iSniff-GPS),
+Hubert Seiwert/@hubert3's excellent [`iSniff-GPS`](https://github.com/hubert3/iSniff-GPS),
 presented at Black Hat USA 2012.
